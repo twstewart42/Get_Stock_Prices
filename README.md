@@ -33,9 +33,11 @@ optional arguments:
                         Type list of Ticker Symbols
  ```
   
-## ticker.py  
+## ticker.py 
 Read csv of stock values and display them in a rotating visual  
-  
+
+![ticker](https://github.com/twstewart42/Get_Stock_Prices/blob/master/ticker.PNG)  
+
     pip install pandas  
   
 This is also Python2/3 compatibile.  
